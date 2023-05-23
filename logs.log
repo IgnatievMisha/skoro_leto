@@ -1,0 +1,12 @@
+2023-05-23 19:13:06,220 - DEBUG - debug
+2023-05-23 19:13:06,220 - INFO - info
+2023-05-23 19:13:06,220 - ERROR - error
+2023-05-23 19:13:06,220 - WARNING - warning
+2023-05-23 19:13:06,220 - CRITICAL - critical
+2023-05-23 19:13:06,221 - ERROR - :(
+Traceback (most recent call last):
+  File "C:\Users\student\PycharmProjects\skoro_leto\main.py", line 9, in <module>
+    print(10/0)
+ZeroDivisionError: division by zero
+2023-05-23 19:13:06,221 - INFO - start calculating factorial 5
+2023-05-23 19:13:06,221 - INFO - finish
